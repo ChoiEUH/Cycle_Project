@@ -7,5 +7,6 @@
 <img width="521" height="54" alt="싸이클 안전" src="https://github.com/user-attachments/assets/9c59211e-efec-4725-aad1-58cb54096f5a" />
 (안정적인 주행 시)
 
-<img width="521" height="54" alt="싸이클 안전" src="https://github.com/user-attachments/assets/7979a646-2a5d-4ecd-889c-8cb8aab9b57b" />
+<img width="831" height="57" alt="싸이클ai1" src="https://github.com/user-attachments/assets/67c2285d-e563-4a81-9248-fb893b4f7569" />
+
 (위험한 각도 및 기울어짐)
