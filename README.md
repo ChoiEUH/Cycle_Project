@@ -3,3 +3,9 @@
 <시스템 ProtoType 회로>
 ![Image](https://github.com/user-attachments/assets/a0b02ed7-4c1b-455f-af27-1f3f2c6b7842)
 ![20250911_225404](https://github.com/user-attachments/assets/a1baf390-1a50-43fc-b861-cb6cad941673)
+<Roll, Pitch에 따른 자전거 경사각 및 기울어짐 정도 분석하는 LLM모델>
+<img width="521" height="54" alt="싸이클 안전" src="https://github.com/user-attachments/assets/9c59211e-efec-4725-aad1-58cb54096f5a" />
+(안정적인 주행 시)
+
+<img width="521" height="54" alt="싸이클 안전" src="https://github.com/user-attachments/assets/7979a646-2a5d-4ecd-889c-8cb8aab9b57b" />
+(위험한 각도 및 기울어짐)
